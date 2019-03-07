@@ -1,9 +1,1 @@
-paramiko
-pycrypto
-pycryptodome
-pytz
-pyOpenSSL
-requests
-unidecode
-xmlsig>=0.1.2
-zeep
+
