@@ -1,5 +1,3 @@
-pyyaml
-simplejson
 paramiko
 pycrypto
 pycryptodome
